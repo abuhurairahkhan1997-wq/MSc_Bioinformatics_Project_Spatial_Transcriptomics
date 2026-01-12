@@ -41,9 +41,6 @@ Python Environment
 
 
 
-R Environment
-
-<img width="732" height="265" alt="image" src="https://github.com/user-attachments/assets/ee956707-6129-472d-97ac-e5388065edc3" />
 
 
 
