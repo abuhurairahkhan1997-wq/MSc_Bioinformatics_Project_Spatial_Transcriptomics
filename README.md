@@ -36,7 +36,8 @@ Clean modular scripts for reproducibility
 
 Python Environment
 
-<img width="657" height="107" alt="image" src="https://github.com/user-attachments/assets/8197371e-5cd8-4a27-9b47-3c22ee53e679" />
+<img width="843" height="503" alt="image" src="https://github.com/user-attachments/assets/b6d79e52-41d9-4fdc-96fb-54a098b264b0" />
+
 
 
 
