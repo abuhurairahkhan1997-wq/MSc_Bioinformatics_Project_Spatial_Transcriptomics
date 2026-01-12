@@ -25,7 +25,8 @@ Clean modular scripts for reproducibility
 🗂 Repository Structure
 
 
-<img width="739" height="577" alt="image" src="https://github.com/user-attachments/assets/18ae1fad-c779-494a-9cef-7fa8feb7d5fe" />
+<img width="910" height="703" alt="image" src="https://github.com/user-attachments/assets/e8cabc87-71da-4f03-a22c-e31877417f32" />
+
 
 
 
