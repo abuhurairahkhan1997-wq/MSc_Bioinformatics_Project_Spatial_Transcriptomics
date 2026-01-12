@@ -32,17 +32,19 @@ Clean modular scripts for reproducibility
 
 
 
-🔧 Installation
+
 
 🔧 Installation
 
 Python Environment
+
 
 <img width="803" height="126" alt="image" src="https://github.com/user-attachments/assets/88562d7c-d41d-4b94-9a90-37c95f186aa5" />
 
 
 
 R Environment
+
 
 <img width="797" height="312" alt="image" src="https://github.com/user-attachments/assets/4f8a7601-ee72-485d-9e61-d4f1cce3494c" />
 
