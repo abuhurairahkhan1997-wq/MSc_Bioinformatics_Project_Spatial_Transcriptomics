@@ -86,7 +86,8 @@ Output spatial feature plots + dotplots
 📊 Clustering Performance (ARI Scores)
 
 
-<img width="459" height="452" alt="image" src="https://github.com/user-attachments/assets/48b698d9-f9c6-485f-a075-92d8b7128546" />
+<<img width="560" height="550" alt="image" src="https://github.com/user-attachments/assets/012ce60b-2fbd-4b8d-811b-d1d50d931f3e" />
+
 
 
 
